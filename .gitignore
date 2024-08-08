@@ -4,3 +4,10 @@ package.json
 nodesource_setup.sh
 .eslintrc.js
 babel.config.js
+0x01-ES6_promise/package.json
+*/*.json
+0x01-ES6_promise/utils.js
+0x01-ES6_promise/node_modules
+*/.eslintrc.js
+*/eslint.config.mjs
+
